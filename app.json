@@ -1,8 +1,8 @@
 {
-  "name": "Python on Heroku example",
-  "description": "A barebones Python app, which can easily be deployed to Heroku.",
+  "name": "Web2workflowy",
+  "description": "Turn any website into a workflowy",
   "image": "heroku/python",
-  "repository": "https://github.com/heroku/python-getting-started",
+  "repository": "https://github.com/ripper234/Web2Workflowy",
   "keywords": ["python", "django" ],
   "addons": [ "heroku-postgresql" ]
 }
